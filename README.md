@@ -2,9 +2,6 @@
 <html
 <head>
 </head>
-<style>body {
-  background-color:yellow;}
-  </style>
 <body>
   <header>
       <h1>
